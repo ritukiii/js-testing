@@ -8,3 +8,7 @@
 
 * npm init
 * npm i -D jasmine
+* create spec.js
+* create spec.html
+  * with jasmin.js jasmine-html.js boot.js
+* confirm by browser
